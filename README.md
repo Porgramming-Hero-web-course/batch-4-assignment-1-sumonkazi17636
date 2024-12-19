@@ -1,1 +1,1 @@
-Union types allow a value to be one of many types, giving flexibility. On the other hand,Intersection types combine multiple types into one, making the value meet all the requirements of those types. Union types are flexible, while intersection types make the value more specific.
+
