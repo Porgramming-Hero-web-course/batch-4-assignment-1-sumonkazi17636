@@ -1,5 +1,5 @@
 
-The significance of union and intersection types in Typescript.
+1.The significance of union and intersection types in Typescript.
 
 Union Types (|):
 Union types allow a value to be one of many types, giving flexibility to handle values that could vary between different options. 
