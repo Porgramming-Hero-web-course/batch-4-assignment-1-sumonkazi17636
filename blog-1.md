@@ -4,13 +4,18 @@ The significance of union and intersection types in Typescript.
 Union Types (|):
 Union types allow a value to be one of many types, giving flexibility to handle values that could vary between different options. 
 
-example:
+Example:
+
 type Shape = 'circle' | 'square' | 'triangle';
 const selectedShape: Shape = 'circle';
 
+
+
 Intersection Types (&):
+
 Intersection types combine multiple types into one, making the value meet all the requirements of those types.
-example:
+Example:
+
 type ContactInfo = {
   email: string;
   phone: string;
